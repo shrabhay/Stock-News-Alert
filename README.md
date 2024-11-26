@@ -55,7 +55,7 @@ Twilio provides an API for sending SMS messages. You'll need to create a Twilio 
 1. Clone the repository to your local machine:
    ```commandline
    git clone https://github.com/shrabhay/Stock-News-Alert.git
-   cd stock-news-alert
+   cd Stock-News-Alert
    ```
 
 2. Install the required dependencies:
